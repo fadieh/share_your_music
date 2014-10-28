@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fadieh/share_your_music",
   "dependencies": {
+    "body-parser": "^1.9.2",
     "ejs": "^1.0.0",
     "express": "^4.10.0"
   }
