@@ -5,13 +5,14 @@
 
 #title {
 	font-size: 30.5px;
-	color: white;
+	color: #FFFEFA;
 	text-align: center;
-	
+	font-family: 'Lobster', cursive;
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
 }
 
 body {
-	background-color: black;
+	background-color: #3F3F40;
 }
 
 #tune {
